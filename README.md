@@ -8,15 +8,9 @@ How to setup confluent Kafka.
 5. [Obtain Schema secrets](SchemaRegistry.md)
 ***
 
-Create a conda environment
-```
-conda create -p venv python==3.7 -y
-```
 
-Activate conda environment
-```
-conda activate venv
-```
+
+
 
 To use confluent kafka we need following details from Confluent dashboard.
 
